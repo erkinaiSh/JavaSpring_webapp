@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="todo-management-spring-boot:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee4e6765-f19c-444c-92d9-b925ea5b0f8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q1aEOeQV4XN1aa7XxgsAmU5vJx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Perforce" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="net.guides.springboot.todomanagement.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat local">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoManagementSpringBoot2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="java_web_application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="net.guides.springboot.todomanagement.StudentManagement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat local" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.44" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/java_web_application_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="java_web_application:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/java_web_application_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_todo-management-spring-boot" />
+        <option name="JNDI_PORT" value="1090" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61481" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="java_web_application:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.TodoManagementSpringBoot2Application" />
+      <item itemvalue="Tomcat Server.Tomcat local" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee4e6765-f19c-444c-92d9-b925ea5b0f8a" name="Default Changelist" comment="" />
+      <created>1616249492524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616249492524</updated>
+      <workItem from="1616249499842" duration="2704000" />
+      <workItem from="1616269964895" duration="10013000" />
+      <workItem from="1616443333263" duration="1870000" />
+      <workItem from="1616543674984" duration="8520000" />
+      <workItem from="1616616536330" duration="1555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="668" y="303" key="#Assign_Data_Sources" timestamp="1616611404424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="303" key="#Assign_Data_Sources/0.0.1536.824@0.0.1536.824" timestamp="1616611404424" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1616357417617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1616357417617" />
+    <state x="547" y="302" key="#Tomcat_Server" timestamp="1616357227763">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="547" y="302" key="#Tomcat_Server/0.0.1536.824@0.0.1536.824" timestamp="1616357227763" />
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616618295975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1616618295975" />
+    <state x="490" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1616604859333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1616604859333" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1616618184607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616618184607" />
+    <state width="1055" height="218" key="GridCell.Tab.0.bottom" timestamp="1616618075180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616618075180" />
+    <state width="1055" height="218" key="GridCell.Tab.0.center" timestamp="1616618075180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616618075180" />
+    <state width="1055" height="218" key="GridCell.Tab.0.left" timestamp="1616618075180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616618075180" />
+    <state width="1055" height="218" key="GridCell.Tab.0.right" timestamp="1616618075180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616618075180" />
+    <state width="1055" height="218" key="GridCell.Tab.1.bottom" timestamp="1616618075181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616618075181" />
+    <state width="1055" height="218" key="GridCell.Tab.1.center" timestamp="1616618075180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1616618075180" />
+    <state width="1055" height="218" key="GridCell.Tab.1.left" timestamp="1616618075180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1616618075180" />
+    <state width="1055" height="218" key="GridCell.Tab.1.right" timestamp="1616618075181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1616618075181" />
+    <state width="1055" height="218" key="GridCell.Tab.2.bottom" timestamp="1616618075181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616618075181" />
+    <state width="1055" height="218" key="GridCell.Tab.2.center" timestamp="1616618075181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1616618075181" />
+    <state width="1055" height="218" key="GridCell.Tab.2.left" timestamp="1616618075181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1616618075181" />
+    <state width="1055" height="218" key="GridCell.Tab.2.right" timestamp="1616618075181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1055" height="218" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1616618075181" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1616618274028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616618274028" />
+    <state x="498" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1616611299622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="150" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1616611299622" />
+    <state x="209" y="32" key="new project wizard" timestamp="1616443842559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1616443842559" />
+  </component>
+</project>
