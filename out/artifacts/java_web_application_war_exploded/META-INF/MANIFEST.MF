@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: User
+Build-Jdk: 14
+Implementation-Title: students-management-spring-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: net.guides.springboot
+Main-Class: ${start-class}
+
